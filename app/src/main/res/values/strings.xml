@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SongApp</string>
+    <string name="listening">Now listening</string>
+    <string name="artist">Los amigos insivibles</string>
+    <string name="song">Esperame (feat Elastic Bond)</string>
+    <string name="sound">Sound</string>
+</resources>
